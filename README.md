@@ -17,3 +17,6 @@ This repository contains the official Pytorch implementation of training & evalu
 
 ## Results
 ![Architecture](images/results.png "Results")
+
+## Acknowledgements
+* The comparison code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
